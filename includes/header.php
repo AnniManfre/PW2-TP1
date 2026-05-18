@@ -160,7 +160,6 @@ echo <<<HTML
 </head>
 <body class="bg-light">
 
-<!-- Barra de navegación de arriba -->
 <nav class="navbar navbar-dark mb-4">
     <div class="container">
         <a class="navbar-brand" href="index.php">Pokédex</a>
